@@ -1,8 +1,10 @@
 🐾 Cats and Dogs Image Classifier (CNN)
 This code implements a complete Convolutional Neural Network (CNN) for the binary classification of images into cats or dogs. The project uses TensorFlow and Keras to build, train, and evaluate a deep learning model.
+
 🔗 Colab Notebook Link: https://colab.research.google.com/drive/1PFO1YZzRKGkEzvweeL9aM_80k6-ROC1H?usp=sharing
 
 🚀 Key Features and Workflow
+
 The notebook automates the entire process of image classification:
 
 1. Data Acquisition and Preparation: Downloads and unzips the cats_and_dogs.zip dataset, automatically organizing it into train, validation, and test directories. It calculates the total number of images in each       set.
